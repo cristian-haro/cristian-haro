@@ -1,6 +1,5 @@
 # Power BI reports by Cristian Haro Álvarez
 >Visit the documentation I am collecting:
-
 [![Notion.](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white "Notion.")](https://www.notion.so/Power-BI-122bba40644180dfae21d7f9de4df6c3?pvs=4)
 ## Resources used
 ### Business Intelligence
