@@ -25,7 +25,17 @@ Exercise created for the complete learning of students in which they face a comp
 
 > Fictitious data have been used in the project
 
-## 2. Economic study
+## [ 2. Performance of a photovoltaic installation](https://github.com/cristiancha/Weight-and-training-log/tree/main)
+| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">|
+|---------------|:---:|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
+
+Tool to control personal income and expenses, facilitating the view of the evolution month by month, creating a history of expenses, etc.
+
+> Fictitious data have been used in the project
+
+
+## 3. Economic study
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
@@ -34,7 +44,7 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 
 > Fictitious data have been used in the project
 
-## [ 3. Weight and training log](https://github.com/cristiancha/Weight-and-training-log/tree/main)
+## [ 4. Weight and training log](https://github.com/cristiancha/Weight-and-training-log/tree/main)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white">|  |   |   |
@@ -43,7 +53,7 @@ Project carried out to track an athlete's CrossFit training record along with th
 
 > Fictitious data have been used in the project
 
-## 4. La Liga 2023-2024 Statistics
+## 5. La Liga 2023-2024 Statistics
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white">  |
 |---------------|:---:|:---:|---|---|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white">|  |   |   |
