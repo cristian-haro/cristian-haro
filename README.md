@@ -25,7 +25,7 @@ Exercise created for the complete learning of students in which they face a comp
 
 > Fictitious data have been used in the project
 
-## [ 2. Performance of a photovoltaic installation](https://github.com/cristiancha/Performance-of-a-photovoltaic-installation)
+## [ 2. Performance of a photovoltaic installation](https://github.com/cristian-haro/Performance-of-a-photovoltaic-installation)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
