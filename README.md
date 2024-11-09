@@ -35,7 +35,7 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 > Fictitious data have been used in the project
 
 
-## 3. Economic study
+## [ 3. Economic study ](https://github.com/cristian-haro/Economic-study)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
@@ -44,7 +44,7 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 
 > Fictitious data have been used in the project
 
-## [ 4. Weight and training log](https://github.com/cristiancha/Weight-and-training-log/tree/main)
+## [ 4. Weight and training log](https://github.com/cristian-haro/Weight-and-training-log/tree/main)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white">|  |   |   |
