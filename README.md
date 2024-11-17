@@ -61,10 +61,10 @@ Project carried out to track an athlete's CrossFit training record along with th
 
 > Fictitious data have been used in the project
 
-## 5. La Liga 2023-2024 Statistics
+## [ 5. La Liga 2023-2024 Statistics](https://github.com/cristian-haro/laliga_2023-2024)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white">  |
 |---------------|:---:|:---:|---|---|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white">|  |   |   |
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   |
 
 >### Status
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
