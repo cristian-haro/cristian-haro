@@ -73,6 +73,18 @@ Project developed with a scrapper made in python, with the extraction of data fr
 
 > Fictitious data have been used in the project
 
+## [ 6. Jira Performance Dashboard](https://github.com/cristian-haro/laliga_2023-2024)
+| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">| <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  |
+|---------------|:---:|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   
+
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+Project to create a control panel for equipment status and Jira tasks.
+
+> Fictitious data have been used in the project
+
 ## [ * Extra: Data generator ](https://github.com/cristian-haro/datagenerator)
 ### Languages
 ![Python.](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python.")
