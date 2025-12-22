@@ -1,4 +1,66 @@
-# Power BI reports by Cristian Haro Álvarez
+# Cristian Haro's Projects
+
+| [Python Projects](#python) | [PBI Projects](#pbi) |
+|:---:|:---:|
+
+<a name="python"></a>
+# Python Projects
+## [1. Alphatron](https://github.com/cristian-haro/)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+## [2. Convert2](https://github.com/cristian-haro/)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+## [3. Data generator ](https://github.com/cristian-haro/datagenerator)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+## [4. Smartfut ](https://github.com/cristian-haro/)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+> Tool to generate test data using Python
+
+## [5. Monitor de precios](https://github.com/cristian-haro/)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+## [6. Random Team Selector](https://github.com/cristian-haro/random_team_selector)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+This project is a tool for randomly selecting football teams from an Excel file. The system filters teams marked as eligible and selects one at random as the winner.
+
+Available in two versions:
+
+- Python Version: Executable script using Python
+- Executable Version: Ready-to-use .exe application (no dependencies required)
+
+
+---
+
+<a name="pbi"></a>
+# Power BI reports
 >Visit the documentation I am collecting:<p style="display: flex;"><a href="https://www.notion.so/Power-BI-122bba40644180dfae21d7f9de4df6c3?pvs=4" target="_blank"><img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a></p>
 
 ## Resources used
@@ -85,10 +147,7 @@ Project to create a control panel for equipment status and Jira tasks.
 
 > Fictitious data have been used in the project
 
-## [ * Extra: Data generator ](https://github.com/cristian-haro/datagenerator)
-### Languages
-![Python.](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python.")
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+---
 
-> Tool to generate test data using Python
+**Versión**: 2.0.0  
+**Última actualización**: Diciembre 2025  
