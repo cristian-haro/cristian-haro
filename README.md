@@ -1,30 +1,36 @@
 # Cristian Haro's Projects
-
+<a name="top"></a>
 | [Python Projects](#python) | [PBI Projects](#pbi) |
 |:---:|:---:|
 
 <a name="python"></a>
 # Python Projects
-## [1. Alphatron](https://github.com/cristian-haro/)
+## [1. Alphatron](https://github.com/cristian-haro/alphatron)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
 >### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
-## [2. Convert2](https://github.com/cristian-haro/)
+**[Back to top](#top)**
+
+## [2. Convert2](https://github.com/cristian-haro/convert2)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
 >### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+**[Back to top](#top)**
 
 ## [3. Data generator ](https://github.com/cristian-haro/datagenerator)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
 >### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+**[Back to top](#top)**
 
 ## [4. Smartfut ](https://github.com/cristian-haro/)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
@@ -35,6 +41,8 @@
 
 > Tool to generate test data using Python
 
+**[Back to top](#top)**
+
 ## [5. Monitor de precios](https://github.com/cristian-haro/)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
@@ -42,12 +50,14 @@
 >### Status
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
 
+**[Back to top](#top)**
+
 ## [6. Random Team Selector](https://github.com/cristian-haro/random_team_selector)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
 >### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
 This project is a tool for randomly selecting football teams from an Excel file. The system filters teams marked as eligible and selects one at random as the winner.
 
@@ -56,6 +66,18 @@ Available in two versions:
 - Python Version: Executable script using Python
 - Executable Version: Ready-to-use .exe application (no dependencies required)
 
+**[Back to top](#top)**
+
+## [7. Blink - Secure Message Sharing](https://github.com/cristian-haro/blink)
+| **Recources** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+**Blink** is an open-source tool for securely sharing messages and files using end-to-end encryption. Messages self-destruct after being read or when their lifetime expires, ensuring total privacy.
+
+**[Back to top](#top)**
 
 ---
 
@@ -89,6 +111,8 @@ Exercise created for the complete learning of students in which they face a comp
 
 > Fictitious data have been used in the project
 
+**[Back to top](#top)**
+
 ## [ 2. Performance of a photovoltaic installation](https://github.com/cristian-haro/Performance-of-a-photovoltaic-installation)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">|
 |---------------|:---:|:---:|
@@ -100,6 +124,7 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 
 > Fictitious data have been used in the project
 
+**[Back to top](#top)**
 
 ## [ 3. Economic study ](https://github.com/cristian-haro/Economic-study)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
@@ -112,6 +137,8 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 
 > Fictitious data have been used in the project
 
+**[Back to top](#top)**
+
 ## [ 4. Weight and training log](https://github.com/cristian-haro/Weight-and-training-log/tree/main)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:
@@ -123,10 +150,14 @@ Project carried out to track an athlete's CrossFit training record along with th
 
 > Fictitious data have been used in the project
 
+**[Back to top](#top)**
+
 ## [ 5. La Liga 2023-2024 Statistics](https://github.com/cristian-haro/laliga_2023-2024)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white">  |
 |---------------|:---:|:---:|---|---|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   |
+
+**[Back to top](#top)**
 
 >### Status
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
@@ -134,6 +165,8 @@ Project carried out to track an athlete's CrossFit training record along with th
 Project developed with a scrapper made in python, with the extraction of data from a website, transformation and treatment of the data in an Excel and dumping of the same in MySQL. Data exploitation carried out in Power BI, with detail in design and visualization of the data.
 
 > Fictitious data have been used in the project
+
+**[Back to top](#top)**
 
 ## [ 6. Jira Performance Dashboard](https://github.com/cristian-haro/Jira-Performance-Dashboard)
 | **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">| <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  |
@@ -147,7 +180,9 @@ Project to create a control panel for equipment status and Jira tasks.
 
 > Fictitious data have been used in the project
 
+**[Back to top](#top)**
+
 ---
 
 **Versión**: 2.0.0  
-**Última actualización**: Diciembre 2025  
+**Última actualización**: Enero 2026 
