@@ -57,6 +57,8 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 >### Status
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
 
+It's a bot that acts as your personal “deal watchdog.” Its job is to periodically check the products you're interested in and notify you immediately if the price goes up or down.
+
 **[Back to top](#top)**
 
 ## [6. Random Team Selector](https://github.com/cristian-haro/random_team_selector)
