@@ -6,7 +6,8 @@
 
 <a name="python"></a>
 # Python Projects
-## [1. Alphatron](https://github.com/cristian-haro/alphatron)
+
+## [Alphatron](https://github.com/cristian-haro/alphatron)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
@@ -17,7 +18,7 @@
 
 **[Back to top](#top)**
 
-## [2. Convert2](https://github.com/cristian-haro/convert2)
+## [Convert2](https://github.com/cristian-haro/convert2)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
@@ -28,7 +29,7 @@
 
 **[Back to top](#top)**
 
-## [3. Data generator ](https://github.com/cristian-haro/datagenerator)
+## [Data generator ](https://github.com/cristian-haro/datagenerator)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
@@ -39,7 +40,7 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 
 **[Back to top](#top)**
 
-## [4. Smartfut ](https://github.com/cristian-haro/)
+## [Smartfut ](https://github.com/cristian-haro/)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
@@ -50,7 +51,7 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 
 **[Back to top](#top)**
 
-## [5. Monitor de precios](https://github.com/cristian-haro/)
+## [Monitor de precios](https://github.com/cristian-haro/)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
@@ -61,7 +62,7 @@ It's a bot that acts as your personal “deal watchdog.” Its job is to periodi
 
 **[Back to top](#top)**
 
-## [6. Random Team Selector](https://github.com/cristian-haro/random_team_selector)
+## [Random Team Selector](https://github.com/cristian-haro/random_team_selector)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
@@ -77,7 +78,18 @@ Available in two versions:
 
 **[Back to top](#top)**
 
-## [7. Blink - Secure Message Sharing](https://github.com/cristian-haro/blink)
+## [LaLotera](https://github.com/cristian-haro/lalotera)
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
+|---------------|:---:|
+| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+>### Status
+![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+**LaLotera** is a simple application designed to manage lottery or bingo games from your computer.
+
+**[Back to top](#top)**
+
+## [Blink - Secure Message Sharing](https://github.com/cristian-haro/blink)
 | **Recources** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 
 |---------------|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
