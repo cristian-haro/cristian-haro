@@ -8,9 +8,8 @@
 # Python Projects
 
 ## [Alphatron](https://github.com/cristian-haro/alphatron)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Resources:** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted:** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
+|-----------|-----------|-----------|-----------|-----------|
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
@@ -19,9 +18,9 @@
 **[Back to top](#top)**
 
 ## [Convert2](https://github.com/cristian-haro/convert2)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
+
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
@@ -30,9 +29,9 @@
 **[Back to top](#top)**
 
 ## [Data generator ](https://github.com/cristian-haro/datagenerator)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
+
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
@@ -41,9 +40,9 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 **[Back to top](#top)**
 
 ## [Smartfut ](https://github.com/cristian-haro/)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
+
 >### Status
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
 
@@ -52,9 +51,9 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 **[Back to top](#top)**
 
 ## [Monitor de precios](https://github.com/cristian-haro/)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
+
 >### Status
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
 
@@ -63,9 +62,8 @@ It's a bot that acts as your personal “deal watchdog.” Its job is to periodi
 **[Back to top](#top)**
 
 ## [Random Team Selector](https://github.com/cristian-haro/random_team_selector)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
@@ -79,9 +77,8 @@ Available in two versions:
 **[Back to top](#top)**
 
 ## [LaLotera](https://github.com/cristian-haro/lalotera)
-| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
@@ -90,9 +87,9 @@ Available in two versions:
 **[Back to top](#top)**
 
 ## [Blink - Secure Message Sharing](https://github.com/cristian-haro/blink)
-| **Recources** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 
-|---------------|:---:|
-| **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
+| **Recources** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge&logo=web&logoColor=white"> |
+|-----------|-----------|-----------|-----------|
+
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
@@ -122,7 +119,7 @@ Available in two versions:
 
 ## Power BI Projects
 ## [1. Sales company](https://github.com/cristian-haro/Sales-company)
-| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | 
+| **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | 
 |---------------|:---:|:---:|---|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
 >### Status
@@ -135,7 +132,7 @@ Exercise created for the complete learning of students in which they face a comp
 **[Back to top](#top)**
 
 ## [ 2. Performance of a photovoltaic installation](https://github.com/cristian-haro/Performance-of-a-photovoltaic-installation)
-| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">|
+| **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
 >### Status
@@ -148,7 +145,7 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 **[Back to top](#top)**
 
 ## [ 3. Economic study ](https://github.com/cristian-haro/Economic-study)
-| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
+| **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
 >### Status
@@ -161,7 +158,7 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 **[Back to top](#top)**
 
 ## [ 4. Weight and training log](https://github.com/cristian-haro/Weight-and-training-log/tree/main)
-| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
+| **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white">|  |   |   |
 >### Status
@@ -174,7 +171,7 @@ Project carried out to track an athlete's CrossFit training record along with th
 **[Back to top](#top)**
 
 ## [ 5. La Liga 2023-2024 Statistics](https://github.com/cristian-haro/laliga_2023-2024)
-| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white">  |
+| **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white">  |
 |---------------|:---:|:---:|---|---|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   |
 
@@ -190,7 +187,7 @@ Project developed with a scrapper made in python, with the extraction of data fr
 **[Back to top](#top)**
 
 ## [ 6. Jira Performance Dashboard](https://github.com/cristian-haro/Jira-Performance-Dashboard)
-| **Recources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">| <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  |
+| **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">| <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  |
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   
 
