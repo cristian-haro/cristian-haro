@@ -13,6 +13,8 @@
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
+**Alphatron** is a modern desktop application developed in Python for playing the classic categories game (known as Scattergories, Basta, or Tutti Frutti). The program generates random challenges and manages player scores in real time with a neon interface optimized for large screens.
+
 **[Back to top](#top)**
 
 ## [2. Convert2](https://github.com/cristian-haro/convert2)
@@ -22,6 +24,8 @@
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
 
+**Convert2** is an all-in-one solution designed to make managing PDF documents and images easy from a simple and intuitive interface. No subscriptions, no uploading files to the cloud, and 100% private.
+
 **[Back to top](#top)**
 
 ## [3. Data generator ](https://github.com/cristian-haro/datagenerator)
@@ -30,6 +34,8 @@
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
 >### Status
 ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+This Python script is a tool to generate dummy data for testing, simulation, or prototyping. Users can customize the type of data they want to generate (e.g. names, addresses, dates, etc.) and the number of records. It also allows users to save this generated data to a CSV file for later use.
 
 **[Back to top](#top)**
 
