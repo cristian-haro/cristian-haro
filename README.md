@@ -10,8 +10,9 @@
 ## [Alphatron](https://github.com/cristian-haro/alphatron)
 | **Resources:** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted:** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
 |-----------|-----------|-----------|-----------|-----------|
->### Status
-![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+| **Status** | ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white) | 
+|-----------|-----------|
 
 **Alphatron** is a modern desktop application developed in Python for playing the classic categories game (known as Scattergories, Basta, or Tutti Frutti). The program generates random challenges and manages player scores in real time with a neon interface optimized for large screens.
 
@@ -21,8 +22,8 @@
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
 
->### Status
-![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+| **Status** | ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white) | 
+|-----------|-----------|
 
 **Convert2** is an all-in-one solution designed to make managing PDF documents and images easy from a simple and intuitive interface. No subscriptions, no uploading files to the cloud, and 100% private.
 
@@ -32,8 +33,8 @@
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
 
->### Status
-![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+| **Status** | ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white) | 
+|-----------|-----------|
 
 This Python script is a tool to generate dummy data for testing, simulation, or prototyping. Users can customize the type of data they want to generate (e.g. names, addresses, dates, etc.) and the number of records. It also allows users to save this generated data to a CSV file for later use.
 
@@ -43,8 +44,8 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
 
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 > Tool to generate test data using Python
 
@@ -54,8 +55,8 @@ This Python script is a tool to generate dummy data for testing, simulation, or 
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
 
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 It's a bot that acts as your personal “deal watchdog.” Its job is to periodically check the products you're interested in and notify you immediately if the price goes up or down.
 
@@ -64,8 +65,9 @@ It's a bot that acts as your personal “deal watchdog.” Its job is to periodi
 ## [Random Team Selector](https://github.com/cristian-haro/random_team_selector)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
->### Status
-![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+| **Status** | ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white) | 
+|-----------|-----------|
 
 This project is a tool for randomly selecting football teams from an Excel file. The system filters teams marked as eligible and selects one at random as the winner.
 
@@ -79,8 +81,9 @@ Available in two versions:
 ## [LaLotera](https://github.com/cristian-haro/lalotera)
 | **Recources** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
->### Status
-![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+
+| **Status** | ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white) | 
+|-----------|-----------|
 
 **LaLotera** is a simple application designed to manage lottery or bingo games from your computer.
 
@@ -90,8 +93,8 @@ Available in two versions:
 | **Recources** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | **Adapted** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge&logo=web&logoColor=white"> |
 |-----------|-----------|-----------|-----------|
 
->### Status
-![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white)
+| **Status** | ![Finished](https://img.shields.io/badge/Finished-27F53F?style=for-the-badge&logo=Finish&logoColor=white) | 
+|-----------|-----------|
 
 **Blink** is an open-source tool for securely sharing messages and files using end-to-end encryption. Messages self-destruct after being read or when their lifetime expires, ensuring total privacy.
 
@@ -122,8 +125,9 @@ Available in two versions:
 | **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | 
 |---------------|:---:|:---:|---|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |   |   |
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 Exercise created for the complete learning of students in which they face a complete exercise with different graph reports, segmentations and calculations on the sales and returns of a store
 
@@ -135,8 +139,9 @@ Exercise created for the complete learning of students in which they face a comp
 | **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 Tool to control personal income and expenses, facilitating the view of the evolution month by month, creating a history of expenses, etc.
 
@@ -148,8 +153,9 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 | **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white"> | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white"> |
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 Tool to control personal income and expenses, facilitating the view of the evolution month by month, creating a history of expenses, etc.
 
@@ -161,8 +167,9 @@ Tool to control personal income and expenses, facilitating the view of the evolu
 | **Resources** | <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> |  <img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">|
 |---------------|:---:|:---:
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Mobile-32CD32?style=for-the-badge&logo=mobile&logoColor=white">|  |   |   |
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 Project carried out to track an athlete's CrossFit training record along with the weight record of each of the exercises they face. This report is focused on mobile devices.
 
@@ -175,10 +182,8 @@ Project carried out to track an athlete's CrossFit training record along with th
 |---------------|:---:|:---:|---|---|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   |
 
-**[Back to top](#top)**
-
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 Project developed with a scrapper made in python, with the extraction of data from a website, transformation and treatment of the data in an Excel and dumping of the same in MySQL. Data exploitation carried out in Power BI, with detail in design and visualization of the data.
 
@@ -191,8 +196,8 @@ Project developed with a scrapper made in python, with the extraction of data fr
 |---------------|:---:|:---:|
 | **Adapted**   |<img style="display: flex; align-items: center; justify-content: center;" src="https://img.shields.io/badge/Desktop-00BFFF?style=for-the-badge&logo=desktop&logoColor=white">|  |   |   
 
->### Status
-![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
+| **Status** | ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge) | 
+|-----------|-----------|
 
 Project to create a control panel for equipment status and Jira tasks.
 
